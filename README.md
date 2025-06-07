@@ -31,5 +31,9 @@
 - **概要**:　家族や同居人と喧嘩しちゃって会話ができない…そんな時にお互いの思いを届けてくれるIoT
 - **役割**:　天気を表示する画面を担当
 
+##
+![](https://raw.githubusercontent.com/yohhhh-yoh/yohhhh-yoh/output/github-contribution-grid-snake.svg)
+
+
 ## 🔗 リンク
 🌐 [Portfolio](https://yohhhhhh.com/) 現在制作中しばらくお待ちください。
