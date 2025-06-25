@@ -36,4 +36,4 @@
 
 
 ## 🔗 リンク
-🌐 [Portfolio](https://yohhhhhh.com/) 現在制作中しばらくお待ちください。
+🌐 [Portfolio](https://yohhhhhh.com/) ぜひご覧ください。
